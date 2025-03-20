@@ -15,4 +15,4 @@ The goal of this dashboard is to visually represent the tutoring hours for both 
 
 ## Data 
 - Data view <a href="https://github.com/sam-were/Tutoring-Hours-Analysis-Dashboard/blob/main/image.png"> View Dashboard</a>
-- PBIX DATA FILE AND DASHBOARD < a href="https://github.com/sam-were/Tutoring-Hours-Analysis-Dashboard/blob/main/Tutoring%20Hours%20Dashboard.pbix"> Data file</a>
+- PBIX DATA FILE AND DASHBOARD <a href="https://github.com/sam-were/Tutoring-Hours-Analysis-Dashboard/blob/main/Tutoring%20Hours%20Dashboard.pbix"> Data file</a>
