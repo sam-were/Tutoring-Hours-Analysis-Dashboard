@@ -11,3 +11,7 @@ The goal of this dashboard is to visually represent the tutoring hours for both 
 4. Count of Reading Tutors: The number of tutors available for Reading across different districts.
 5. Average Tutor Hours by District: The average number of tutoring hours (for both Math and Reading) per district.
 6. Tutor Count by District: The number of tutors available per district, displayed separately for Math and Reading tutors.
+
+
+## Data 
+- Data view <a href="https://github.com/sam-were/Tutoring-Hours-Analysis-Dashboard/blob/main/image.png"<Dashboard View </a> 
